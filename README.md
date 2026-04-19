@@ -27,9 +27,8 @@
 ## 🚀 快速开始
 
 ```bash
-git clone https://github.com/sumeng/pythonic-design-patterns.git
+git clone https://github.com/SumengQAQ/pythonic-design-patterns.git
 cd pythonic-design-patterns
-python 单例模式.py
 ```
 
 ## ⚠️ 许可证

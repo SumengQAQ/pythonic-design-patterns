@@ -1,6 +1,5 @@
 # 🐍 Pythonic 设计模式
 
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/)
 
 ## 📖 关于本项目

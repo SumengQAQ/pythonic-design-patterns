@@ -1,5 +1,5 @@
 from abc import ABC, abstractmethod
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from enum import Enum
 from typing import Optional, List
 
@@ -118,7 +118,7 @@ class Vehicle:
     name: str
     type: VehicleType
     body: Optional[Body] = None
-    wheel_list: List[Wheel] = []
+    wheel_list: List[Wheel] = field(default_factory=list)
 
     def run(self) -> None:
         """

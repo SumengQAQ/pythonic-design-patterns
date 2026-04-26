@@ -106,7 +106,7 @@ def _add_todo(title, content="", database=mock_database):
 ## 📁 文件结构
 
 ```
-MVC模式/
+MVC/
 ├── todo_mvc.py          # 完整MVC代码
 ├── README.md            # 本文件
 └── test_todo_mvc.py     # 单元测试（待补充）
